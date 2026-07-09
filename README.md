@@ -1,4 +1,4 @@
-# ARIMA-IoT: Automated Real-time Intelligence for Machine Anomalies
+# IoT-Driven Predictive Maintenance System
 
 A **Digital Twin** inspired predictive maintenance system that bridges Arduino-based IoT hardware with a Machine Learning pipeline to monitor industrial conveyor health.
 
